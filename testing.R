@@ -1,3 +1,3 @@
 print("This file was created within RStudio")
 print("And now it lives on GitHub")
-hi my name is pam
+I am 23 years old. 
